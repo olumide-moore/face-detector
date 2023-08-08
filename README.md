@@ -1,2 +1,2 @@
 # Face Detector
-An AI program which detects face. Built using Python OpenCV library
+An AI program which detects faces, built using Python OpenCV library
